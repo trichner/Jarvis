@@ -1,0 +1,4 @@
+name: Jarvis
+main: jarvis.Jarvis
+version: 1.2.3
+load: startup
